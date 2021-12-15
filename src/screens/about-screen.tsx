@@ -53,12 +53,12 @@ const AboutScreen = () => {
             colorScheme="red"
             size="lg"
             borderRadius="full"
-            href="https://erickbxn.netlify.app/"
+            href="https://www.instagram.com/whooserick/"
             leftIcon={
-              <Icon as={Feather} name="youtube" size="sm" opacity={0.5} />
+              <Icon as={Feather} name="instagram" size="sm" opacity={0.5} />
             }
           >
-            My Portfolio
+            Instagram
           </LinkButton>
           <LinkButton
             colorScheme={useColorModeValue('blue', 'darkBlue')}
