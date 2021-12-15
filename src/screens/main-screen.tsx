@@ -15,7 +15,7 @@ const initialData = [
   },
   {
     id: shortid.generate(),
-    subject: 'Make a React Native tutorial',
+    subject: 'Follow whooserick on instagram',
     done: false
   }
 ]
