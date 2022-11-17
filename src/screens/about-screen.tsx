@@ -47,7 +47,7 @@ const AboutScreen = () => {
             />
           </Box>
           <Text fontSize="md" w="full">
-          Animated ToDo app built with React Native  
+            Animated ToDo app built with React Native
           </Text>
           <LinkButton
             colorScheme="red"
@@ -72,13 +72,14 @@ const AboutScreen = () => {
             Go to LinkedIn profile
           </LinkButton>
           <Text fontSize="md" w="full">
-          My inbox is always open. Whether you have a question. I'll try my best to get back to you
+            My inbox is always open. Whether you have a question. I'll try my
+            best to get back to you
           </Text>
           <LinkButton
             colorScheme="purple"
             size="lg"
             borderRadius="full"
-            href="https://erickbxn.netlify.app/"
+            href="https://erickdev.netlify.app/"
             leftIcon={
               <Icon as={Feather} name="external-link" size="sm" opacity={0.5} />
             }
