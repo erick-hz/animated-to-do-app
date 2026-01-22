@@ -226,14 +226,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-
-**Erick Hernandez**
-
-- Portfolio: [https://erickbxn.netlify.app/](https://erickbxn.netlify.app/)
-- Instagram: [@whooserick](https://www.instagram.com/whooserick/)
-- LinkedIn: [Erick Hernandez](https://www.linkedin.com/in/erick-hernandez-93361618b/)
-
 ## 🙏 Acknowledgments
 
 - Expo team for the excellent development platform
